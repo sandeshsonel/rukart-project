@@ -4,7 +4,7 @@ import TextFileUpload from "./pages/text-upload-file";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <TextFileUpload />
     </div>
   );
